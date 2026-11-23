@@ -7,7 +7,7 @@
  */
 
 // Deployed backend base URL on Render
-export const API_BASE_URL = 'https://YOUR-SERVICE.onrender.com';
+export const API_BASE_URL = "https://canteenkart-desktop-app.onrender.com";
 
 // Network request timeout in milliseconds (60 seconds to accommodate Render free-tier cold starts)
 export const REQUEST_TIMEOUT_MS = 60000;
